@@ -4,4 +4,4 @@ Allow: /
 Allow: /*
 Allow: /#/about
 
-Sitemap: https://MeturgaMusic.com/sitemap.txt
+Sitemap: https://MeturgaMusic.basssites.com/sitemap.txt
